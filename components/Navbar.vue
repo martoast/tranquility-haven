@@ -6,7 +6,7 @@
             <div class="flex justify-start lg:w-0 lg:flex-1">
               <NuxtLink to="/">
                 <span class="sr-only">Tranquility Haven</span>
-                <img class="h-14 w-auto" src="/logo.svg" alt="Tranquility Haven Logo" />
+                <img src="/logo.png" alt="Tranquility Haven Logo" style="width: 100px; height: auto"  />
               </NuxtLink>
             </div>
             <div class="hidden space-x-10 md:flex">
