@@ -22,10 +22,12 @@
   
   const navigation = {
     main: [
+      { name: 'Home', href: '/' },
       { name: 'About', href: '#about' },
       { name: 'Services', href: '#services' },
       { name: 'Benefits', href: '#benefits' },
       { name: 'Contact', href: '#contact' },
+      { name: 'Privacy policy', href: '/privacy-policy' },
     ],
     social: [
       {
