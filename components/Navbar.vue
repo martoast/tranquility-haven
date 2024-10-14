@@ -15,7 +15,7 @@
               <PopoverGroup as="nav" class="hidden space-x-10 md:flex">
                 <Popover class="relative" v-slot="{ open }">
                   <PopoverButton :class="[open ? 'text-gray-900' : 'text-gray-500', 'group inline-flex items-center rounded-md bg-white text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2']">
-                    <span>Solutions</span>
+                    <span>Services</span>
                     <ChevronDownIcon :class="[open ? 'text-gray-600' : 'text-gray-400', 'ml-2 h-5 w-5 group-hover:text-gray-500']" aria-hidden="true" />
                   </PopoverButton>
   

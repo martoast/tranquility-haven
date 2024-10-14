@@ -1,10 +1,10 @@
 <template>
-  <div class="bg-gray-100 py-24 sm:py-32">
+  <div id="services" class="bg-gray-100 py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl lg:text-center">
-        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Senior & Veteran Services</h2>
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Compassionate Care for Seniors & Veterans</h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
-          Tranquility Haven offers safe housing solutions using a shared home environment in partnership with community resources. Explore our Services below to find out more.
+          Our innovative shared home approach, combined with strong community partnerships, ensures a supportive and enriching living experience.
         </p>
       </div>
       <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
