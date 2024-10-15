@@ -30,8 +30,8 @@
   
           <h2 class="mt-16 text-2xl font-bold tracking-tight text-gray-900">Contact Information</h2>
           <p class="mt-6">If you have any questions about this privacy policy, please contact us at:</p>
-          <p>Email: privacypolicy@harborhalo.com</p>
-          <p>Address: Attn: Privacy Policy Dept, 629 Roberts Drive Ste. B, Riverdale, GA 30274</p>
+          <p>Email: APlace2Reside@gmail.com</p>
+          <p>Address: 1445 Woodmont Ln, NW, Ste. 4358, Atlanta GA 30318</p>
   
           <h1 class="mt-20 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Terms of Use</h1>
   
